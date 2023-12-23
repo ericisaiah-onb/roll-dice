@@ -13,7 +13,7 @@ Before you get started, make sure you have the following installed:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/ericisaiah-onb/roll-dice.git
+   git clone https://github.com/ericisaiah-onb/roll_dice.git
    cd roll-dice
 
 1. **Run the app:**
