@@ -16,11 +16,12 @@ Before you get started, make sure you have the following installed:
    git clone https://github.com/ericisaiah-onb/roll_dice.git
    cd roll-dice
 
-1. **Run the app:**
+2. **Install Dependencies:**
+   in terminal run: flutter pub get
+
+3. **Run the app:**
     Using VSCode:
     Open the project in VSCode.
     Ensure you have the Flutter extension installed.
     Launch the Android Emulator from VSCode.
     Run flutter run from the terminal.
-
-  
